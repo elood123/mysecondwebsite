@@ -1,0 +1,35 @@
+h1 {
+    color: rgb(247, 246, 239);
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(85, 85, 85);
+}
+
+body {
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+ul {
+    color:rgb(75, 74, 74);
+}
+
+h2 {
+    color:rgb(247, 246, 239);
+    text-align: center;
+    background-color: rgb(85, 85, 85);
+}
+
+#first-paragraph {
+    color: rgb(247, 246, 239);
+    font-style: oblique;
+    text-align: center;
+    background-color: rgb(85, 85, 85);
+}
+
+img {
+    border-radius: 50%;
+}
